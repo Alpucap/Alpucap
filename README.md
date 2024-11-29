@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am an Informatics Engineering student at Universitas Tarumanagara and have worked as a lecturer assistant, specializing in guiding students through Java-based data structures. I possess strong skills in problem-solving, creative thinking, leadership, and teamwork. Passionate about UI/UX design, web development, and app development, I am eager to leverage my expertise to make meaningful contributions. With a deep enthusiasm for technology and design, I am committed to advancing technological innovation and progress on a global scale.
+I am an Informatics Engineering student at Universitas Tarumanagara and have worked as a lecturer assistant, specializing in guiding students through Java-based data structures. I possess strong skills in problem-solving, creative thinking, leadership, and teamwork. Passionate about UI/UX design, web and mobile development, and also data science, I am eager to leverage my expertise to make meaningful contributions. With a deep enthusiasm for technology and design, I am committed to advancing technological innovation and progress on a global scale.
 
 
 ## 🌐 Socials:
